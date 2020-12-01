@@ -10,6 +10,8 @@ beautifulsoup4 = "*"
 requests = "*"
 lxml = "*"
 openpyxl = "*"
+grequests = "*"
+pymysql = "*"
 
 [requires]
 python_version = "3.8"
